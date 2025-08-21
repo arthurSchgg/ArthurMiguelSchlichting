@@ -8,13 +8,18 @@
 - 🌐 JavaScript  
 - 🖥️ HTML  
 
+---
+
+## 📊 Minhas Estatísticas no GitHub
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMiguelSchlichting&show_icons=true&theme=dracula)
+
+---
+
 ## 📫 Como me encontrar:
 - ✉️ Email: [arthurms2904@gmail.com](mailto:arthurms2904@gmail.com)
 
 ---
 
-⭐ Aqui compartilho meus projetos, aprendizados e evoluções na área de programação
+✨ Obrigado por visitar meu perfil! ✨  
 
-🙌 Obrigado pela visita, volte sempre!  
-
-![Thank You](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![Thanks](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
