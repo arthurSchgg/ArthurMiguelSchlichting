@@ -11,7 +11,7 @@
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMiguelSchlichting&show_icons=true&theme=dracula)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurSchgg&show_icons=true&theme=dracula)
 
 ---
 
