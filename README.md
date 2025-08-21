@@ -15,4 +15,6 @@
 
 ⭐ Aqui compartilho meus projetos, aprendizados e evoluções na área de programação
 
-![Thanks](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+🙌 Obrigado pela visita, volte sempre!  
+
+![Thank You](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
