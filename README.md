@@ -15,4 +15,4 @@
 
 ⭐ Aqui compartilho meus projetos, aprendizados e evoluções na área de programação
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurMiguelSchlichting&show_icons=true&theme=dracula)
+![Thanks](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
